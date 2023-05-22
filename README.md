@@ -25,6 +25,7 @@ Functionality:
 
 Steps to Run this projects
 ---------------------------
+After cloning this project you can follow the following steps to run it to your local machine.
 1. Go to the file named application.properties  in src/main/resources folder and chande database configuration(Password)
 2. open mysql and create the database as it is(login-system)
 3. then run the main class(of the project in the first package).
