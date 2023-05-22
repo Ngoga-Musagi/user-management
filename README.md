@@ -6,7 +6,6 @@ Requirements ,tools and technology used
 =======================================
 IDE: Spring Tool Suite(STS)
 
-for AutoScaling: You need (Containerization tools: Docker & Kubernetes)
 
 Database: Mysql
 
